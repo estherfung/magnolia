@@ -172,7 +172,10 @@ footer p {
     }
 
     .nav>li>a {
-        padding: 35px;
+        padding-top: 2vh;
+        padding-bottom: 2vh;
+        padding-left: 7vh;
+        padding-right: 7vh;
     }
 
     .navbar-nav>li>a {
